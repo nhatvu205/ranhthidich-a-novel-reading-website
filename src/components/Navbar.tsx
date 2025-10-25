@@ -31,7 +31,11 @@ const Navbar = () => {
       <div className="container mx-auto px-4 py-4">
         <div className="flex items-center justify-between">
           <Link to="/" className="flex items-center gap-2 hover:opacity-80 transition-opacity">
-            <BookOpen className="h-6 w-6 text-secondary" />
+            <img 
+              src="/logo.svg" 
+              alt="Rảnh Thì Dịch Logo" 
+              className="h-8 w-8 object-contain"
+            />
             <span className="text-xl font-semibold text-foreground">Rảnh Thì Dịch</span>
           </Link>
           
