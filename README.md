@@ -2,6 +2,8 @@
 
 ## 🎉 DỰ ÁN HOÀN THÀNH!
 
+URL: https://ranhthidich.vercel.app/
+
 Website đọc truyện chữ tiếng Việt với đầy đủ chức năng quản trị và người dùng.
 
 ---
@@ -159,7 +161,7 @@ File: `src/contexts/AuthContext.tsx`
 
 ```typescript
 const ADMIN_EMAILS = [
-  "nhatvupq205@gmail.com",
+  "example@gmail.com",
   // Thêm email admin khác ở đây
 ];
 ```
@@ -270,7 +272,6 @@ const ADMIN_EMAILS = [
 
 **Admin:** 
 - 📘 Facebook: https://www.facebook.com/nhatvu205
-- 📧 Email: nhatvupq205@gmail.com
 
 **Website:**
 - 🌐 Production: `https://ranhthidich.vercel.app` (sau khi deploy)
